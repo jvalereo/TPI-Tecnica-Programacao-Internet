@@ -34,7 +34,7 @@
 - TPI - Técnica de Programação de Internet
 - TPI - Estrutura básica de desenvolvimento de site
 - Projeto foi implemetado e desenvolvidio na ferramenta descrita abaixo
-- Obs: Primeira aula como desenolver a estrutura de site para iniciante, quando esta cursinho o Técnico em Informática - Etec de São Paulo - Centro Paula Souza
+- Obs: Primeira aula como desenolver a estrutura de site para iniciante, quando esta cursando Técnico em Informática - Etec de São Paulo - Centro Paula Souza
 - IDE Visual Studio
 
 # Tecnologia Aplicada no Projeto
