@@ -7,13 +7,13 @@
 ##
 
 <a href="#">
-<img align="center"  alt="jonas-C#" height ="500" width ="1000" src ="https://user-images.githubusercontent.com/25933386/123495231-4835f200-d5f9-11eb-908a-2560728446e0.jpg" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-C#" height ="1300" width ="1000" src ="https://user-images.githubusercontent.com/25933386/123495231-4835f200-d5f9-11eb-908a-2560728446e0.jpg" style="max-width: 100%;"></img>
 </a>
 
 ##
 
 <a href="#">
-<img align="center"  alt="jonas-C#" height ="500" width ="1000" src ="https://user-images.githubusercontent.com/25933386/123495233-48ce8880-d5f9-11eb-85a3-9629a8db5786.jpg" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-C#" height ="1300" width ="1000" src ="https://user-images.githubusercontent.com/25933386/123495233-48ce8880-d5f9-11eb-85a3-9629a8db5786.jpg" style="max-width: 100%;"></img>
 </a>
 
 ##
