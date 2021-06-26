@@ -30,14 +30,16 @@
 
 # Sobre o Projeto
 
-- Programa básico, calcule a area do tropézio, e execulta o resultado na tela.
-- Projeto foi implemetado no console.
-- IDE Eclipse
+- Treinamento Básico Estrutura de TPI Site Básico
+- TPI - Técnica de Programação de Internet
+- TPI - Estrutura básica de desenvolvimento de site
+- Projeto foi implemetado e desenvolvidio na ferramenta descrita abaixo
+- IDE Visual Studio
 
 # Tecnologia Aplicada no Projeto
 
-- Bak-end
-- Java
+- Front-end
+- Html5 e CSS
 
 # Como Executa o Projeto
 
