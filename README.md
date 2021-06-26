@@ -19,7 +19,7 @@
 ##
 
 <a href="#">
-<img align="center"  alt="jonas-C#" height ="400" width ="400" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-C#" height ="400" width ="400" src ="https://user-images.githubusercontent.com/25933386/123495292-91864180-d5f9-11eb-90e8-49de3a28d346.png" style="max-width: 100%;"></img>
 </a>
 
 # Cadastro Pessoal
